@@ -1,13 +1,14 @@
 body {
   margin: 0;
   height: 200vh;
- }
+}
 
- h1 {
+h1 {
   position: fixed;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 40px;
   font-family: arial;
- }
+}
+/*# sourceMappingURL=style.css.map */
